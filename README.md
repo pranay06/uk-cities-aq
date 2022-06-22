@@ -1,10 +1,15 @@
-It is a react application which let's you compare air quality between cities of UK and data source of this app is [OpenAQ API](https://api.openaq.org/docs).
+A react application which let's you compare air quality between cities of UK and data source of this app is [OpenAQ API](https://api.openaq.org/docs).
+
+App hosted on Netlify- [AQ-UK-CITIES](https://luxury-pika-4e84af.netlify.app)
 
 # Major parts of the apps I wanted highlight
 
 **react-query** used for server cache
+
 **react-error-boundary** used for error handling
+
 **downshift** used to develop WAI-ARIA compliant React autocomplete
+
 **React context** to maintian the uiState
 
 # Things to do better
